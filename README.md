@@ -1,2 +1,4 @@
-# Homework_Datacamp_1
-# Homework_Datacamp_1
+### DataCamp 1
+# 1. สุภาพร หงส์พิสุทธิกุล
+# 2. Python Crash Course Part 1
+
